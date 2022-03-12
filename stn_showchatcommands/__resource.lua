@@ -4,10 +4,6 @@ description 'ESX showchatcommands'
 
 version '1.1.0'
 
-server_scripts {
-	'Server.lua'
-
-}
 
 client_scripts {
 	'Client.lua'
